@@ -17,3 +17,7 @@ Skills: JS / REACT / HTML / CSS / Bootstrap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juannjo&show_icons=true)  
 
+### My projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=HookedApp)](https://github.com/juannjo/HookedApp)
+
