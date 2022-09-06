@@ -21,3 +21,4 @@ Skills: JS / REACT / HTML / CSS / Bootstrap
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=HookedApp)](https://github.com/juannjo/HookedApp)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=GifExpertApp)](https://github.com/juannjo/Gif-expert-App)
