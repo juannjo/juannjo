@@ -1,23 +1,12 @@
- ### Hi there 👋, my name is **Juan**
-#### I'm a Frontend Developer
-![I'm a Frontend Developer](https://i.ibb.co/nzLtv3T/Welcome.png)
+<h1 align="center">Hi 👋, I'm Juan Navarrete</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juanjosenavarrete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanjosenavarrete" height="30" width="40" /></a>
+</p>
 
-I'm currently living in Mejillones, a town on the north of Chile, in the Antofagasta region, it's small but actually really nice to live.
-I like the coffee (in healthy doses), play FPS game like Apex and COD, and study things that's not strictly Programming, such as self development, UI & UX, Data analysis, etc.
-Right now i have a lot of project in progress, the most important one it's myself ❤️
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-JavaScript | ReactJS | NextJS | Material UI | SASS
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juannjo&show_icons=true&locale=en&layout=compact" alt="juannjo" /></p>
 
-
- - 📫 How to reach me: juanjnvegaa@gmail.com
-
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" />](https://github.com/juannjo)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/juanjonv9/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/@_juannjo)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juannjo&show_icons=true)  
-
-### My projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=Journal-app)](https://github.com/juannjo/Journal-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=MyNewEcommerce)](https://github.com/juannjo/MyNewEcommerce)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juannjo&show_icons=true&locale=en" alt="juannjo" /></p>
