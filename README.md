@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Navarrete</h1>
-<h3 align="center">I'm a Frontend Developer</h3>
-
-(https://i.ibb.co/nzLtv3T/Welcome.png)
+![I'm a Frontend Developer](https://i.ibb.co/nzLtv3T/Welcome.png)
 
 - I've been working on [Ecommerce](https://my-first-next-ecommerce.vercel.app)
 
