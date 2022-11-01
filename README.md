@@ -1,7 +1,28 @@
 <h1 align="center">Hi 👋, I'm Juan Navarrete</h1>
+<h3 align="center">I'm a Frontend Developer</h3>
+
+- I've been working on [Ecommerce](https://my-first-next-ecommerce.vercel.app)
+
+- 🌱 I’m currently learning **Next JS and MongoDB**
+
+- Also i made [My Journal App](https://juannjo.github.io/Journal-app/)
+
+- 👨‍💻 All of my projects are available at [No yet](No yet)
+
+- 💬 Ask me about **JavaScript, React and Libraries**
+
+- 📫 How to reach me **juanjnvega@gmail.com**
+
+- 📄 Know about my experiences [No yet](No yet)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/needto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="needto" height="30" width="40" /></a>
+<a href="https://twitter.com/needto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="needto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juanjosenavarrete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanjosenavarrete" height="30" width="40" /></a>
+<a href="https://instagram.com/needto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="needto" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/needto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="needto" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/needto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="needto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
