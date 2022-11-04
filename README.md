@@ -31,6 +31,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juannjo&show_icons=true&locale=en" alt="juannjo" /></p>
 
+<h3 align="left">A couple of projects:</h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=MyNewEcommerce)](https://github.com/juannjo/MyNewEcommerce)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juannjo&repo=Journal-app)](https://github.com/juannjo/Journal-app)
